@@ -1,0 +1,23 @@
+ipywidgets
+notebook
+
+# to check aurgument type 
+ensure 
+py-youtube
+
+# dev requirements
+pytest
+
+
+tox
+# formating purpose
+black
+
+# linting purpose
+flake8==5.0.4
+
+#type check 
+mypy==0.971
+
+# Install local packages
+-e .
